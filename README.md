@@ -1,2 +1,2 @@
 # cv-resume
-My CV and Resume.
+My CV! Please view it [here](cv.md)
