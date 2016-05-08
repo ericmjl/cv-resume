@@ -11,7 +11,7 @@ i use code to solve big biological data problems. tools: deep learning, network 
     + Advisors: B. B. Finlay, PhD; G. A. Grassl, PhD
 
 ## peer-reviewed publications
-1. Ma, E. J. et. al. Reticulate evolution is favored in microbial niche switching. *PNAS* (2016) (1st author) [[link](http://www.pnas.org/content/early/2016/04/21/1522921113.abstract)]
+1. Ma, E. J. et. al. Reticulate evolution is favored in microbial niche switching. *PNAS* (2016) (1st author) [[link](http://www.pnas.org/content/early/2016/04/21/1522921113.abstract)][[pdf](./papers/pnas2016.pdf)]
 1. Hill, N. J. et al. Switching transmission strategies is key to infecting a mobile host: Influenza A virus across the annual cycle of wild birds. *Ecology Letters* (2016) (2nd author)
 1. Hussein, I. T. M. et al. New England harbor seal H3N8 influenza virus retains avian-like receptor specificity and replicates in human lung cells. *Scientific Reports* (2016) (3rd author) [[link](http://www.nature.com/articles/srep21428)]
 1. Bahl, J et. al. Ecosystem interactions and reassortment dynamics underlie the emergence of influenza A viruses with pandemic potential. *PLoS Pathogens* (2016) (5th author)
