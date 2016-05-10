@@ -1,3 +1,6 @@
+# Ignore all PDFs
+**.pdf
+
 # OS X DS_store
 **.DS_Store
 
