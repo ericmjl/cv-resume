@@ -7,7 +7,7 @@ i use code to solve big biological data problems. tools: deep learning, network 
 ## education
 - Sc.D.: Biological Engineering, MIT, 2017 (Expected)
     + Advisor: J. A. Runstadler, PhD, DVM
-- B.Sc.: Integrated Sciences, UBC, 2010 with Distinction
+- B.Sc.: Integrated Sciences, UBC, 2010 (with Distinction)
     + Advisors: B. B. Finlay, PhD; G. A. Grassl, PhD
 
 ## peer-reviewed publications
