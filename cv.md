@@ -16,7 +16,7 @@ i use code to solve big biological data problems. tools: deep learning, network 
 1. Hussein, I. T. M. et al. New England harbor seal H3N8 influenza virus retains avian-like receptor specificity and replicates in human lung cells. *Scientific Reports* (2016) (3rd author) [[link](http://www.nature.com/articles/srep21428)] [[pdf](./papers/scirep-2016.pdf)]
 1. Bahl, J et. al. Ecosystem interactions and reassortment dynamics underlie the emergence of influenza A viruses with pandemic potential. *PLoS Pathogens* (2016) (5th author)
 1. Hussein, I. T. M. et. al. A point mutation in the polymerase protein PB2 alleviates the restriction on a wild reassortant H9N2 influenza isolate, enabling replication in human cells. *Infection, Genetics & Evolution* (2016) (2nd author) [[link](http://www.nature.com/articles/srep21428)] [[pdf](./papers/ige2016.pdf)]]
-1. Bui, V. N. et al. Genetic characterization of a rare H12N3 avian influenza virus isolated from a green-winged teal in Japan. *Virus Genes* (2015). (8th author) [[link](http://www.ncbi.nlm.nih.gov/pubmed/25557930)] [[pdf](./papers/virus-genes2015.pdf)]
+1. Bui, V. N. et al. Genetic characterization of a rare H12N3 avian influenza virus isolated from a green-winged teal in Japan. *Virus Genes* (2015). (8th author) [[link](http://www.ncbi.nlm.nih.gov/pubmed/25557930)] s[[pdf](./papers/virus-genes2015.pdf)]
 
 ## academic teaching
 1. 20.506 - BE Stats for Grads, 2016 Winter @ MIT. Co-taught basic probability, hypothesis testing and inference.
