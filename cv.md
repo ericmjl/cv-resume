@@ -26,6 +26,7 @@ i use code to solve big biological data problems. tools: deep learning, network 
 ## workshops
 1. SciPy 2016 @ Austin, TX. Tutorial Leader: *Practical Network Analysis Made Simple*
 1. PyCon 2016 @ Portland, OR. Tutorial Leader: *Practical Network Analysis Made Simple*
+1. Open Data Science Conference 2016 @ Boston, MA. Workshop Leader: *Network Analysis Fundamentals*
 1. Broad Institute *NextGen* Workshops 2016 @ Cambridge, MA. Tutorial Leader: *Machine Learning with `scikit-learn`*
 1. PyData 2015 @ New York, NY. Tutorial Leader: *Network Analysis Fundamentals*
 1. Data Science for Social Good Conference 2015 @ Boston, MA. Tutorial Leader: *Network Analysis Fundamentals*
