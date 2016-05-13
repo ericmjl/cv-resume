@@ -33,6 +33,10 @@ i use code to solve big biological data problems. tools: deep learning, network 
 1. PyCon 2015 @ Montreal QC. Tutorial Leader: *Practical Network/Graph Analysis Made Simple*
 1. PyCon 2014 @ Montreal QC. Tutorial Leader: *How to formulate a (science) problem and analyze it using Python code*
 
+## individual mentorship
+1. Andrea Nickerson, MIT Biological Engineering. Currently at Silver Creek Pharmaceuticals.
+2. Justin Zabilansky, MIT Biological Engineering. Currently at AeroFarms.
+
 ## conferences
 1. Broad Institute Annual Retreat 2015 @ Boston, MA. Poster Presenter: *Reassortment is favoured in influenza niche switching.* (Poster Winner)
 1. Center of Excellence for Influenza Research and Surveillance (CEIRS) Annual Meeting 2015 @ Rochester NY. Speaker: *Reticulate evolution primes a pathogen to cross host phylogenetic barriers.*
@@ -62,7 +66,7 @@ i use code to solve big biological data problems. tools: deep learning, network 
 1. Charles and Jane Banks Scholarship @ UBC, 2010
 1. Dean of Science Scholarship @ UBC, 2010
 1. Arthur Whitehead Science One Memorial Scholarship @ UBC, 2007
-1. UBC President's Entrance Scholarship @ UBC, 2006
+1. UBC President's Entrance Scholarship @ UBC, 200
 
 [1]: mailto:ericmajinglong@gmail.com
 [2]: http://www.ericmajinglong.com
