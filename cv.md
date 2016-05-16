@@ -18,6 +18,10 @@ i use code to solve big biological data problems. tools: deep learning, network 
 1. Hussein, I. T. M. et. al. A point mutation in the polymerase protein PB2 alleviates the restriction on a wild reassortant H9N2 influenza isolate, enabling replication in human cells. *Infection, Genetics & Evolution* (2016) (2nd author) [[link](http://www.sciencedirect.com/science/article/pii/S156713481630137X)] [[pdf](./papers/ige2016.pdf)]
 1. Bui, V. N. et al. Genetic characterization of a rare H12N3 avian influenza virus isolated from a green-winged teal in Japan. *Virus Genes* (2015). (8th author) [[link](http://link.springer.com/article/10.1007%2Fs11262-014-1162-9)] [[pdf](./papers/virus-genes2015.pdf)]
 
+## funding sources
+1. Broad Next10, 2016
+1. Viterbi Fellowship, 2011
+
 ## academic teaching
 1. 20.506 - BE Stats for Grads, 2016 Winter @ MIT. Co-taught basic probability, hypothesis testing and inference.
 1. 20.106 - Systems Microbiology, 2015 Fall @ MIT. Co-taught one module on machine learning, bayesian statistics, and phylogenetic inference in infectious disease.
