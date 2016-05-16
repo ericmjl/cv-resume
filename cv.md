@@ -19,8 +19,8 @@ i use code to solve big biological data problems. tools: deep learning, network 
 1. Bui, V. N. et al. Genetic characterization of a rare H12N3 avian influenza virus isolated from a green-winged teal in Japan. *Virus Genes* (2015). (8th author) [[link](http://link.springer.com/article/10.1007%2Fs11262-014-1162-9)] [[pdf](./papers/virus-genes2015.pdf)]
 
 ## funding
-1. Broad Next10, 2016 ($40,000) Title: Data science for genomic surveillance: predicting and evaluating pathogen risk from genomic data.
-1. Broad Next10, 2016 ($40,000) Title: Scalable mapping of viral polymerase genotype to phenotype.
+1. Broad Next10, 2016. Title: Data science for genomic surveillance: predicting and evaluating pathogen risk from genomic data. $40,000
+1. Broad Next10, 2016. Title: Scalable mapping of viral polymerase genotype to phenotype. $40,000
 
 ## academic teaching
 1. 20.506 - BE Stats for Grads, 2016 Winter @ MIT. Co-taught basic probability, hypothesis testing and inference.
