@@ -82,3 +82,7 @@ footer {
     padding-top: 2rem;
     padding-bottom: 2rem;
 }
+/* This adds a bit of padding to the right of the icons*/
+i.fa {
+    padding-right: 10px;
+}
