@@ -1,0 +1,67 @@
+span.num-highlight-table {
+    align: center;
+    display: block;
+    height: 30px;
+    width: 30px;
+    line-height: 30px;
+
+    -moz-border-radius: 30px; /* or 50% */
+    border-radius: 30px; /* or 50% */
+    color: black;
+    text-align: center;
+    font-size: 1em;
+    margin: auto;
+}
+
+
+span.num-highlight {
+    align: center;
+    display: block;
+    height: 60px;
+    width: 60px;
+    line-height: 60px;
+
+    -moz-border-radius: 30px; /* or 50% */
+    border-radius: 30px; /* or 50% */
+    color: black;
+    text-align: center;
+    font-size: 2em;
+    margin: auto;
+}
+
+span.num-highlight-success {
+    background-color: lightgreen;
+}
+
+span.num-highlight-info {
+    background-color: lightblue;
+}
+
+span.num-highlight-warning {
+    background-color: lightyellow;
+}
+span.num-highlight-vanilla {
+    background-color: black;
+    color: white;
+}
+
+td, td > span {
+    vertical-align: middle;
+}
+
+.justified{
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.caption {
+    font-size: 0.7em;
+}
+
+h2 {
+    text-align: center;
+}
+
+table, tr, td {
+    vertical-align: middle
+}
