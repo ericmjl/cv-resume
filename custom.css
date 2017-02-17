@@ -69,6 +69,8 @@ table, tr, td {
 div.img-container {
     display: table-cell;
     vertical-align: bottom;
+    align: middle;
+    text-align: center;
 }
 
 div.img-container > img.os-logo {
@@ -85,4 +87,9 @@ footer {
 /* This adds a bit of padding to the right of the icons*/
 i.fa {
     padding-right: 10px;
+}
+
+img.edu-logo {
+    max-height: 30px;
+    max-width: 100%;
 }
