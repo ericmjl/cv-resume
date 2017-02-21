@@ -13,6 +13,7 @@
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
         <!-- Latest compiled and minified JavaScript -->
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
     </head>
     <body>
         <div class="container" id="name">
@@ -21,13 +22,13 @@
         <div class="container" id="resume-content">
             <div class="col-md-8" id="left panel">
                 <div class="row" id="summary">
-                    <h2>Summary</h2>
+                    <h2><i class="fa fa-list" aria-hidden="true"></i>Summary</h2>
                     <div class="col-md-12" id="summary-text">
                         I use code to solve big biological data problems. tools: deep learning, network analysis, non-parametric and Bayesian statistics. domain expertise in life sciences: molecular biology, microbiology, genetics and genomics, and a bit of ecology.
                     </div>
                 </div>
                 <div class="row" id="spacer"><hr></div>
-                <div class="row" id="highlights">
+                <div class="row" id="education-highlights">
                     <h2 align="center"><i class="fa fa-graduation-cap" aria-hidden="true"></i>Education Highlights</h2>
                     <br>
                     <div class="col-md-12" id="highlights-details">
@@ -87,13 +88,12 @@
                         <div class="row" id="break">
                             <br>
                         </div>
-                    </div>
-                    <div class="col-md-12" id="education">
+                    </div><div class="col-md-12" id="education">
                         <div class="row" id="education-row">
                             <div class="col-md-6" id="ubc-logo-and-text" align="center">
                                 <div class="row" id="ubc-logo">
                                     <div class="col-md-12">
-                                        <img class="edu-logo" src="./ubc-logo.jpg" alt="">
+                                        <a href="http://www.ubc.ca/"><img class="edu-logo" src="./ubc-logo.jpg" alt=""></a>
                                     </div>
                                 </div>
                                 <div class="row" id="break">
@@ -103,14 +103,14 @@
                                 </div>
                                 <div class="row" id="ubc-text" align="left">
                                     <div class="col-md-12">
-                                        <p>I graduated in 2010 from UBC Vancouver in the Integrated Sciences program with Distinction. Areas of concentration were Microbiology & Biochemistry.</p>
+                                        <p>I graduated in 2010 from UBC Vancouver in the <a href="https://intsci.ubc.ca">Integrated Sciences</a> program with Distinction. Areas of concentration were Microbiology & Biochemistry.</p>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-md-6" id="mit-logo-and-text" align="center">
                                 <div class="row">
                                     <div class="col-md-12" id="mit-logo">
-                                        <img class="edu-logo" src="./mit-logo.svg" alt="">
+                                        <a href="http://web.mit.edu/"><img class="edu-logo" src="./mit-logo.svg" alt=""></a>
                                     </div>
                                 </div>
                                 <div class="row">
@@ -120,12 +120,29 @@
                                 </div>
                                 <div class="row">
                                     <div class="col-md-12" id="mit-text" align="left">
-                                        <p>I will defend my doctoral thesis in the Department of Biological Engineering at MIT in April 2017. Areas of work: network science, ecology & evolution, deep learning and biochemistry.</p>
+                                        <p>I will defend my doctoral thesis in the <a href="https://be.mit.edu">Department of Biological Engineering</a> at MIT in April 2017. Areas of work: network science, ecology & evolution, deep learning and biochemistry.</p>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
+
+                    <!-- <div class="col-md-12" id="highlights-details-navigation">
+                        <ul class="nav nav-tabs" role="tablist">
+                            <li role="presentation" class="active"><a href="#home" aria-controls="home" role="tab" data-toggle="tab">Home</a></li>
+                            <li role="presentation"><a href="#profile" aria-controls="profile" role="tab" data-toggle="tab">Profile</a></li>
+                            <li role="presentation"><a href="#messages" aria-controls="messages" role="tab" data-toggle="tab">Messages</a></li>
+                            <li role="presentation"><a href="#settings" aria-controls="settings" role="tab" data-toggle="tab">Settings</a></li>
+                        </ul>
+
+                        <div class="tab-content">
+                            <div role="tabpanel" class="tab-pane fade active" id="home">aloha</div>
+                            <div role="tabpanel" class="tab-pane fade" id="profile">hi!</div>
+                            <div role="tabpanel" class="tab-pane fade" id="messages">messages</div>
+                            <div role="tabpanel" class="tab-pane fade" id="settings">...</div>
+                        </div>
+
+                    </div> -->
 
                 </div>
                 <div class="row" id="spacer"><hr></div>
@@ -211,7 +228,7 @@
                                 <div class="row" id="matplotlib-text">
                                     <div class="col-md-12" align="center" id="matplotlib-text">
                                         <p>
-                                            I contributed documentation fixes to the <code>matplotlib</code> plotting library.
+                                            I contributed <a href="https://github.com/matplotlib/matplotlib/pulls?q=is%3Apr+author%3Aericmjl+is%3Aclosed">documentation fixes</a> to the <code>matplotlib</code> plotting library.
                                         </p>
                                     </div>
                                 </div>
@@ -231,7 +248,7 @@
                                 <div class="row" id="nxviz-text">
                                     <div class="col-md-12" align="center" id="nxviz-text">
                                         <p>
-                                            I contributed the VBar and HBar glyphs to the <code>bokeh</code> plotting library.
+                                            I <a href="https://github.com/bokeh/bokeh/pull/4815">contributed</a> the VBar and HBar glyphs to the <code>bokeh</code> plotting library.
                                         </p>
                                     </div>
                                 </div>
@@ -258,7 +275,7 @@
                                 </div>
                                 <div class="row" id="nams-text">
                                     <div class="col-md-12" id="NAMS text">
-                                        I have taught <a href="https://github.com/ericmjl/Network-Analysis-Made-Simple">network analysis fundamentals workshops</a> at PyCon, SciPy, and PyData. Topics covered include the use of the NetworkX API, basic graph characterization, visualization, and graph traversal algorithms.
+                                        I have taught <a href="https://github.com/ericmjl/Network-Analysis-Made-Simple">network analysis fundamentals workshops</a> at <a href="https://www.youtube.com/watch?v=jdvlZJKK4F0">PyCon</a>, <a href="https://www.youtube.com/watch?v=ZsvlVpSCb0Y">SciPy</a>, and <a href="https://www.youtube.com/watch?v=wcrwASR5DCQ">PyData</a>. Topics covered include the use of the NetworkX API, basic graph characterization, visualization, and graph traversal algorithms.
                                     </div>
                                 </div>
                             </div>
@@ -276,7 +293,7 @@
                                 </div>
                                 <div class="row" id="data-testing-text">
                                     <div class="col-md-12" id="data-testing-text">
-                                        I will teach <a href="https://github.com/ericmjl/data-testing-tutorial">data testing practices</a> at PyCon 2017. Topics include using property-based testing, visual diagnostics for data completeness, detection of outliers, and automated testing frameworks.
+                                        I will teach <a href="https://github.com/ericmjl/data-testing-tutorial">data testing practices</a> at <a href="https://us.pycon.org/2017/schedule/presentation/182/">PyCon 2017</a>. Topics include using property-based testing, visual diagnostics for data completeness, detection of outliers, and automated testing frameworks.
                                     </div>
                                 </div>
                             </div>
@@ -396,8 +413,7 @@
                             </tr>
                         </table>
                     </div>
-
-                    <div class="col-md-12">
+                    <div class="col-md-12" id="skills-table-caption">
                         <span class="caption">
                             Skill level indicated ordinally as "beginner", "intermediate" and "advanced". Number of years of experience rounded off to the nearest integer in years.
                         </span>
@@ -405,7 +421,7 @@
                 </div>
                 <div class="row" id="languages">
                     <h2><i class="fa fa-language" aria-visible="true"></i>Languages</h2>
-                    <div class="col-md-12">
+                    <div class="col-md-12" id="languages-table">
                         <table class="table">
                             <tr>
                                 <th>Language</th>
@@ -425,10 +441,7 @@
                             </tr>
                         </table>
                     </div>
-
-
                 </div>
-
             </div>
         </div>
     </body>
