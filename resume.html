@@ -3,6 +3,8 @@
     <head>
         <meta charset="utf-8">
         <title>Eric J. Ma Resume</title>
+        <!-- jQuery for Bootstrap plugins -->
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
         <!-- Latest compiled and minified CSS -->
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
         <!-- Custom highlighting -->
@@ -13,7 +15,16 @@
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
         <!-- Latest compiled and minified JavaScript -->
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+        <script type="text/javascript">
+        $(function () {
+            $('[data-toggle="tooltip"]').tooltip()
+        })
 
+        $(function () {
+          $('[data-toggle="popover"]').popover()
+        })
+
+        </script>
     </head>
     <body>
         <div class="container" id="name">
@@ -40,9 +51,36 @@
                                     </div>
                                     <div class="col-md-12">
                                         <p align="center">
-                                            peer reviewed papers
+                                            <a href="#" data-toggle="modal" data-target="#modalPapers">
+                                                peer reviewed papers
+                                            </a>
                                         </p>
                                     </div>
+                                    <!-- Modal -->
+                                    <div class="modal fade" id="modalPapers" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+                                      <div class="modal-dialog" role="document">
+                                        <div class="modal-content">
+                                          <div class="modal-header">
+                                            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                                            <h4 class="modal-title" id="myModalLabel">Peer-Reviewed Papers</h4>
+                                          </div>
+                                          <div class="modal-body">
+                                            <ol>
+                                                <li>Ma, E. J. et. al. Reticulate evolution is favored in influenza niche switching. PNAS (2016) (1st author)</li>
+                                                <li>Hill, N. J. et al. Switching transmission strategies is key to infecting a mobile host: Influenza A virus across the annual cycle of wild birds. Ecology Letters (2016) (2nd author)</li>
+                                                <li>Hussein, I. T. M. et al. New England harbor seal H3N8 influenza virus retains avian-like receptor specificity and replicates in human lung cells. Scientific Reports (2016) (3rd author)</li>
+                                                <li>Bahl, J et. al. Ecosystem interactions and reassortment dynamics underlie the emergence of influenza A viruses with pandemic potential. PLoS Pathogens (2016) (5th author)</li>
+                                                <li>Hussein, I. T. M. et. al. A point mutation in the polymerase protein PB2 alleviates the restriction on a wild reassortant H9N2 influenza isolate, enabling replication in human cells. Infection, Genetics & Evolution (2016) (2nd author)</li>
+                                                <li>Bui, V. N. et al. Genetic characterization of a rare H12N3 avian influenza virus isolated from a green-winged teal in Japan. Virus Genes (2015). (8th author)</li>
+                                            </ol>
+                                          </div>
+                                          <div class="modal-footer">
+                                            <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </div>
+
                                 </div>
                             </div>
                             <div class="col-md-3" id="grants won">
@@ -88,7 +126,8 @@
                         <div class="row" id="break">
                             <br>
                         </div>
-                    </div><div class="col-md-12" id="education">
+                    </div>
+                    <div class="col-md-12" id="education">
                         <div class="row" id="education-row">
                             <div class="col-md-6" id="ubc-logo-and-text" align="center">
                                 <div class="row" id="ubc-logo">
@@ -126,24 +165,6 @@
                             </div>
                         </div>
                     </div>
-
-                    <!-- <div class="col-md-12" id="highlights-details-navigation">
-                        <ul class="nav nav-tabs" role="tablist">
-                            <li role="presentation" class="active"><a href="#home" aria-controls="home" role="tab" data-toggle="tab">Home</a></li>
-                            <li role="presentation"><a href="#profile" aria-controls="profile" role="tab" data-toggle="tab">Profile</a></li>
-                            <li role="presentation"><a href="#messages" aria-controls="messages" role="tab" data-toggle="tab">Messages</a></li>
-                            <li role="presentation"><a href="#settings" aria-controls="settings" role="tab" data-toggle="tab">Settings</a></li>
-                        </ul>
-
-                        <div class="tab-content">
-                            <div role="tabpanel" class="tab-pane fade active" id="home">aloha</div>
-                            <div role="tabpanel" class="tab-pane fade" id="profile">hi!</div>
-                            <div role="tabpanel" class="tab-pane fade" id="messages">messages</div>
-                            <div role="tabpanel" class="tab-pane fade" id="settings">...</div>
-                        </div>
-
-                    </div> -->
-
                 </div>
                 <div class="row" id="spacer"><hr></div>
 
