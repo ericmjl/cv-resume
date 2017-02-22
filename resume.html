@@ -23,7 +23,6 @@
         $(function () {
           $('[data-toggle="popover"]').popover()
         })
-
         </script>
     </head>
     <body>
@@ -57,53 +56,104 @@
                                         </p>
                                     </div>
                                     <!-- Modal -->
-                                    <div class="modal fade" id="modalPapers" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
-                                      <div class="modal-dialog" role="document">
-                                        <div class="modal-content">
-                                          <div class="modal-header">
-                                            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                                            <h4 class="modal-title" id="myModalLabel">Peer-Reviewed Papers</h4>
-                                          </div>
-                                          <div class="modal-body">
-                                            <ol>
-                                                <li>Ma, E. J. et. al. Reticulate evolution is favored in influenza niche switching. PNAS (2016) (1st author)</li>
-                                                <li>Hill, N. J. et al. Switching transmission strategies is key to infecting a mobile host: Influenza A virus across the annual cycle of wild birds. Ecology Letters (2016) (2nd author)</li>
-                                                <li>Hussein, I. T. M. et al. New England harbor seal H3N8 influenza virus retains avian-like receptor specificity and replicates in human lung cells. Scientific Reports (2016) (3rd author)</li>
-                                                <li>Bahl, J et. al. Ecosystem interactions and reassortment dynamics underlie the emergence of influenza A viruses with pandemic potential. PLoS Pathogens (2016) (5th author)</li>
-                                                <li>Hussein, I. T. M. et. al. A point mutation in the polymerase protein PB2 alleviates the restriction on a wild reassortant H9N2 influenza isolate, enabling replication in human cells. Infection, Genetics & Evolution (2016) (2nd author)</li>
-                                                <li>Bui, V. N. et al. Genetic characterization of a rare H12N3 avian influenza virus isolated from a green-winged teal in Japan. Virus Genes (2015). (8th author)</li>
-                                            </ol>
-                                          </div>
-                                          <div class="modal-footer">
-                                            <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-                                          </div>
+                                    <div class="modal fade" id="modalPapers" tabindex="-1" role="dialog" aria-labelledby="modalPapers">
+                                        <div class="modal-dialog" role="document">
+                                            <div class="modal-content">
+                                                <div class="modal-header">
+                                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                                                    <h4 class="modal-title" id="modalPapers">Peer-Reviewed Papers</h4>
+                                                </div>
+                                                <div class="modal-body">
+                                                    <ol>
+                                                        <li>Ma, E. J. et. al. Reticulate evolution is favored in influenza niche switching. PNAS (2016) (1st author)</li>
+                                                        <li>Hill, N. J. et al. Switching transmission strategies is key to infecting a mobile host: Influenza A virus across the annual cycle of wild birds. Ecology Letters (2016) (2nd author)</li>
+                                                        <li>Hussein, I. T. M. et al. New England harbor seal H3N8 influenza virus retains avian-like receptor specificity and replicates in human lung cells. Scientific Reports (2016) (3rd author)</li>
+                                                        <li>Bahl, J et. al. Ecosystem interactions and reassortment dynamics underlie the emergence of influenza A viruses with pandemic potential. PLoS Pathogens (2016) (5th author)</li>
+                                                        <li>Hussein, I. T. M. et. al. A point mutation in the polymerase protein PB2 alleviates the restriction on a wild reassortant H9N2 influenza isolate, enabling replication in human cells. Infection, Genetics & Evolution (2016) (2nd author)</li>
+                                                        <li>Bui, V. N. et al. Genetic characterization of a rare H12N3 avian influenza virus isolated from a green-winged teal in Japan. Virus Genes (2015). (8th author)</li>
+                                                    </ol>
+                                                </div>
+                                                <div class="modal-footer">
+                                                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                                                </div>
+                                            </div>
                                         </div>
-                                      </div>
                                     </div>
-
                                 </div>
                             </div>
                             <div class="col-md-3" id="grants won">
                                 <div class="row">
                                     <div class="col-md-12">
-                                        <span class="num-highlight num-highlight-success">80</span>
+                                        <span class="num-highlight num-highlight-success">86</span>
                                     </div>
                                     <div class="col-md-12">
                                         <p align="center">
-                                            thousand dollars won in research funding
+                                            <a href="#" data-toggle="modal" data-target="#modalFunding">
+                                                thousand dollars won in research funding
+                                            </a>
                                         </p>
+                                    </div>
+                                    <div class="modal fade" id="modalFunding" tabindex="-1" role="dialog" aria-labelledby="modalFunding">
+                                        <div class="modal-dialog" role="document">
+                                            <div class="modal-content">
+                                                <div class="modal-header">
+                                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                                                    <h4 class="modal-title" id="modalFunding">Funding Sources</h4>
+                                                </div>
+                                                <div class="modal-body">
+                                                    <ol>
+                                                        <li>Broad Next10, 1 Jan 2017 - 1 Jan 2018. PI. Title: Data science for genomic surveillance: predicting and evaluating pathogen risk from genomic data. $40,000</li>
+                                                        <li>Broad Next10, 1 Jun 2016 - 1 Jun 2017. Co-PI. Title: Scalable mapping of viral polymerase genotype to phenotype. $40,000</li>
+                                                        <li>CIHR/MSFHR Training Program in Transplantation, 1 June 2009 - 31 August 2009. Rapid whole cell biosensors for sensitive transplantation diagnostics. $6,000</li>
+                                                    </ol>
+                                                </div>
+                                                <div class="modal-footer">
+                                                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                                                </div>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-md-3" id="workshops taught">
                                 <div class="row">
                                     <div class="col-md-12">
-                                        <span class="num-highlight num-highlight-success">9</span>
+                                        <span class="num-highlight num-highlight-success">10</span>
                                     </div>
                                     <div class="col-md-12">
                                         <p align="center">
-                                            data science workshops taught
+                                            <a href="#" data-toggle="modal" data-target="#modalWorkshops">
+                                                data science workshops taught
+                                            </a>
+
                                         </p>
+                                    </div>
+                                    <div class="modal fade" id="modalWorkshops" tabindex="-1" role="dialog" aria-labelledby="modalWorkshops">
+                                        <div class="modal-dialog" role="document">
+                                            <div class="modal-content">
+                                                <div class="modal-header">
+                                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                                                    <h4 class="modal-title" id="modalWorkshops">Workshops</h4>
+                                                </div>
+                                                <div class="modal-body">
+                                                    <ol>
+                                                        <li>PyCon 2017 @ Portland, OR. Tutorial Leader: Network Analysis Made Simple</li>
+                                                        <li>PyCon 2017 @ Portland, OR. Tutorial Leader: Best Testing Practices for Data Science</li>
+                                                        <li>SciPy 2016 @ Austin, TX. Tutorial Leader: Network Science and Statistics: Fundamentals and Applications</li>
+                                                        <li>PyCon 2016 @ Portland, OR. Tutorial Leader: Practical Network Analysis Made Simple</li>
+                                                        <li>Open Data Science Conference 2016 @ Boston, MA. Workshop Leader: Network Analysis Fundamentals</li>
+                                                        <li>Broad Institute NextGen Workshops 2016 @ Cambridge, MA. Tutorial Leader: Machine Learning with scikit-learn</li>
+                                                        <li>PyData 2015 @ New York, NY. Tutorial Leader: Network Analysis Fundamentals</li>
+                                                        <li>Data Science for Social Good Conference 2015 @ Boston, MA. Tutorial Leader: Network Analysis Fundamentals</li>
+                                                        <li>PyCon 2015 @ Montreal, QC. Tutorial Leader: Practical Network/Graph Analysis Made Simple</li>
+                                                        <li>PyCon 2014 @ Montreal, QC. Tutorial Leader: How to formulate a (science) problem and analyze it using Python code</li>
+                                                    </ol>
+                                                </div>
+                                                <div class="modal-footer">
+                                                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                                                </div>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -114,12 +164,33 @@
                                     </div>
                                     <div class="col-md-12">
                                         <p align="center">
-                                            mentored students
+                                            <a href="#" data-toggle="modal" data-target="#modalMentorship">
+                                                mentored students
+                                            </a>
                                         </p>
+                                    </div>
+                                    <div class="modal fade" id="modalMentorship" tabindex="-1" role="dialog" aria-labelledby="modalMentorship">
+                                        <div class="modal-dialog" role="document">
+                                            <div class="modal-content">
+                                                <div class="modal-header">
+                                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                                                    <h4 class="modal-title" id="modalMentorship">Workshops</h4>
+                                                </div>
+                                                <div class="modal-body">
+                                                    <ol>
+                                                        <li>Vivian Zhong, Department of Biological Engineering, MIT.</li>
+                                                        <li>Justin Zabilansky, Department of Biological Engineering, MIT. Now at Aerofarms.</li>
+                                                        <li>Andrea Nickerson, Department of Biological Engineering, MIT. Now at Silver Creek Pharmaceuticals.</li>
+                                                    </ol>
+                                                </div>
+                                                <div class="modal-footer">
+                                                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                                                </div>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
-
                         </div>
                     </div>
                     <div class="col-md-12" id="break">
@@ -142,7 +213,7 @@
                                 </div>
                                 <div class="row" id="ubc-text" align="left">
                                     <div class="col-md-12">
-                                        <p>I graduated in 2010 from UBC Vancouver in the <a href="https://intsci.ubc.ca">Integrated Sciences</a> program with Distinction. Areas of concentration were Microbiology & Biochemistry.</p>
+                                        <p>I graduated in 2010 from UBC Vancouver in the <a href="https://intsci.ubc.ca">Integrated Sciences</a> program with Distinction. Areas of concentration were Microbiology & Biochemistry. Founding member of the UBC iGEM Team.</p>
                                     </div>
                                 </div>
                             </div>
@@ -159,7 +230,7 @@
                                 </div>
                                 <div class="row">
                                     <div class="col-md-12" id="mit-text" align="left">
-                                        <p>I will defend my doctoral thesis in the <a href="https://be.mit.edu">Department of Biological Engineering</a> at MIT in April 2017. Areas of work: network science, ecology & evolution, deep learning and biochemistry.</p>
+                                        <p>I will defend my doctoral thesis in the <a href="https://be.mit.edu">Department of Biological Engineering</a> at MIT in April 2017. Areas of work: network science, ecology & evolution, deep learning and biochemistry. Served as a peer reviewer for PLOS Computational Biology.</p>
                                     </div>
                                 </div>
                             </div>
