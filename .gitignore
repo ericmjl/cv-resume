@@ -1,6 +1,7 @@
 # Ignore compiled pdf
 cv.pdf
 resume.pdf
+eric_ma_cv.pdf
 
 # OS X DS_store
 **.DS_Store

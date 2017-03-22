@@ -1,9 +1,7 @@
 ## Eric J. Ma
 
-An online version of this CV can be found at my personal website [[link](http://www.ericmjl.com/cv)]
-
 ### who i am
-I use code to solve big biological data problems. tools: deep learning, network analysis, non-parametric and Bayesian statistics. domain expertise in life sciences: molecular biology, microbiology, genetics and genomics, and a bit of ecology.
+I use code to solve big biological data problems. tools: deep learning, network analysis, non-parametric and Bayesian statistics. domain expertise in life sciences: molecular biology, microbiology, genetics and genomics, and a bit of ecology. find me online at http://www.ericmjl.com/.
 
 ### education
 - Sc.D.: Biological Engineering, MIT, 2017 (Expected)
