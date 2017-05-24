@@ -95,8 +95,9 @@ These are the students whom I have individually mentored over the years.
 1. Rising Stars of Research 2008 @ Vancouver, BC. Poster Presenter: *The Role of T Cells in Intestinal Fibrosis* (Poster Winner)
 
 ### community service
+1. *SciPy 2017 Financial Aid Committee.* I served a second year as one of the two co-chairs with Dr. Scott Collis for the Financial Aid committee.
 1. *PLOS Computational Biology.* I have reviewed one paper for PCB.
-1. *SciPy 2016 Financial Aid Committee.* I served as one of two co-chairs (myself & [Dr. Scott Colis](http://www.anl.gov/contributors/scott-collis), ANL) for the SciPy 2016. Together with the Diversity Chair ([Celia Cintas](https://github.com/celiacintas), Universidad Nacional del Sur), we ensured that a broad range of qualified applicants received partial or full funding, disbursing $30,000 in financial scholarships. ([website](http://scipy2016.scipy.org/ehome/146062/388083/))
+1. *SciPy 2016 Financial Aid Committee.* I served as one of two co-chairs (myself & [Dr. Scott Collis](http://www.anl.gov/contributors/scott-collis), ANL) for the SciPy 2016. Together with the Diversity Chair ([Celia Cintas](https://github.com/celiacintas), Universidad Nacional del Sur), we ensured that a broad range of qualified applicants received partial or full funding, disbursing $30,000 in financial scholarships. ([website](http://scipy2016.scipy.org/ehome/146062/388083/))
 1. *SciPy 2016 Program Committee.* I helped evaluate talks in the Life Sciences track.
 1. *PyCon 2016 Program Committee.* I pitched in with evaluating and championing talks that I thought would be beneficial for the community. In particular, I pushed for scientific applications of Python.
 1. *Boston Python Tutorial Lead.* I have assumed the role of helping put together workshops/tutorial sessions for the Boston Python community, led by community instructors.
@@ -114,6 +115,7 @@ These are the students whom I have individually mentored over the years.
 1. Best Student Poster, FINDER Division, Rising Stars of Research @ UBC, 2008.
 
 ### scholarships & fellowships
+1. SciPy 2017 Conference Attendance Scholarship @ SciPy Conference, 2017.
 1. SciPy 2015 Conference Attendance Scholarship @ SciPy Conference, 2015.
 1. Viterbi Fellowship @ MIT, 2011
 1. Charles and Jane Banks Scholarship @ UBC, 2010
