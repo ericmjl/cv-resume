@@ -4,7 +4,7 @@
 I use code to solve big biological data problems. tools: deep learning, network analysis, non-parametric and Bayesian statistics. domain expertise in life sciences: molecular biology, microbiology, genetics and genomics, and a bit of ecology. find me online at http://www.ericmjl.com/.
 
 ### education
-- Sc.D.: Biological Engineering, MIT, 2017 (Expected)
+- Sc.D.: Biological Engineering, MIT, 2017
     - Advisor: J. A. Runstadler, PhD, DVM
     - Committee: M. Bathe, PhD (Chair), J-P. Onnela, PhD
     - Thesis (in writing): Identification of Reassortant Influenza Viruses At Scale - Algorithm and Applications
@@ -51,9 +51,9 @@ In collaboration with colleagues, we have won funding for research that I have b
 
 ### mentorship
 
-1. Vivian Zhong, MIT Biological Engineering.
-1. Justin Zabilansky, MIT Biological Engineering. Currently at AeroFarms.
-1. Andrea Nickerson, MIT Biological Engineering. Currently at Silver Creek Pharmaceuticals.
+1. Vivian Zhong, MIT Biological Engineering. Went on to be a UROP in the Alm lab at MIT.
+1. Justin Zabilansky, MIT Biological Engineering. Went on to work at AeroFarms.
+1. Andrea Nickerson, MIT Biological Engineering. Went on to work at Silver Creek Pharmaceuticals.
 
 ### talks
 
