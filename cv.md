@@ -1,7 +1,14 @@
 ## Eric J. Ma
 
 ### who i am
+
 I use code to solve big biological data problems. tools: deep learning, network analysis, non-parametric and Bayesian statistics. domain expertise in life sciences: molecular biology, microbiology, genetics and genomics, and a bit of ecology. find me online at http://www.ericmjl.com/.
+
+### experience
+
+- Novartis Institutes for Biomedical Research, 2017-Present
+    - Investigator II, Data Science & Statistical Learning (2018-Present)
+    - Investigator I, Data Science & Statistical Learning (2017-2018)
 
 ### education
 - Sc.D.: Biological Engineering, MIT, 2017
